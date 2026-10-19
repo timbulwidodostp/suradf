@@ -1,6 +1,8 @@
 # suradf
 Series-specific SUR-ADF panel unit root test (Breuer, McNown and Wallace 2002) Use suradf With STATA 19
 
+https://www.youtube.com/watch?v=VbzZQMTyddk
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
